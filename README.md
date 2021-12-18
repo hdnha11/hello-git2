@@ -3,3 +3,5 @@
 Hello Git!
 
 **New line**
+
+Line 1
